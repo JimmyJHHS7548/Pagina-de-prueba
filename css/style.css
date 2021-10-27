@@ -1,0 +1,19 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.contenedor{
+    width:90%;
+    background-color:aqua;
+    height:150px;
+    display:flex;
+    justify-content:space-between;
+    margin:0 auto;
+    align-items: center;
+}
+.menu a{
+    text-decoration-color:red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:1.2em;
+    padding:1em;
+}
